@@ -1,4 +1,4 @@
-# [RGShadow1001]'s B.Tech AI & ML Journey 🚀
+# [Shaurya Pratap Singh]'s B.Tech AI & ML Journey 🚀
 
 A comprehensive repository tracking my evolution from pre-engineering foundations to advanced B.Tech Artificial Intelligence & Machine Learning projects.
 
