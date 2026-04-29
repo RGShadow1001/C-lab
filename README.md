@@ -2,8 +2,6 @@
 
 A professional archive of my C++ development journey, tracking my progress from pre-degree fundamentals to advanced engineering applications.
 
-![C++](https://shields.io)
-![Build](https://shields.io)
 
 ## 📌 Repository Overview
 This repository documents my mastery of C++—the high-performance language behind modern AI engines.
