@@ -1,62 +1,65 @@
-# [Shaurya Pratap Singh]'s B.Tech AI & ML Journey 🚀
+# C++ Core Engineering & AI Foundations ⚙️
 
-A comprehensive repository tracking my evolution from pre-engineering foundations to advanced B.Tech Artificial Intelligence & Machine Learning projects.
+A professional archive of my C++ development journey, tracking my progress from pre-degree fundamentals to advanced engineering applications.
+
+![C++](https://shields.io)
+![Build](https://shields.io)
 
 ## 📌 Repository Overview
-This repository serves as a centralized hub for my academic progress, side projects, and laboratory work. 
-- **Goal:** Master the intersection of Computer Science, Mathematics, and AI.
-- **Current Status:** Pre-B.Tech / 1st Year (Update this as you progress)
-- **Tech Stack:** Python, Java, C++, SQL (DataGrip), Linux (Ubuntu Server)
+This repository documents my mastery of C++—the high-performance language behind modern AI engines.
+- **Goal:** Deep understanding of memory management, low-level data structures, and algorithms.
+- **IDE:** CLion (JetBrains)
+- **Environment:** Ubuntu LTS (Remote Development)
 
 ---
 
-## 📅 Pre-B.Tech Foundations (Phase 1)
-Focusing on core mathematics and programming logic before the formal degree begins.
+## 📅 Phase 1: Pre-B.Tech Foundations
+*Focused on logic building and basic syntax before formal university entry.*
 
-- **Mathematics for AI:** [Link to folder]
-  - Sets, Relations, and Functions (Unit 1 Mastered)
-  - Differential & Integral Calculus
-  - Linear Algebra Foundations
-- **Logic & Programming:** [Link to folder]
-  - Logic building with Java (IntelliJ IDEA)
-  - Python scripts for automation
-  - Experimental AI using local LLMs (Ministral 14B)
+- **Fundamental Logic:** Simple calculators, sorting algorithms, and basic I/O operations.
+- **DSA Starters:** Linked lists and stack implementations from scratch.
+- **Practice Hub:** Solutions to competitive programming basics.
 
 ---
 
-## 🏛️ B.Tech AI & ML Projects (Phase 2)
-*Documentation of semester-wise progress and specialized laboratory work.*
+## 🏛️ Phase 2: B.Tech Engineering Mastery
+*Academic laboratory work and specialized high-performance projects.*
 
-### 🔹 Year 1: Engineering Fundamentals
-- **[Project Name 1]**: Brief description of what it does and why it was built.
-- **[Lab Work]**: C++ Data Structures implemented in CLion.
+### 🔹 Year 1-2: Core Systems
+- **[Object-Oriented Programming]**: Class inheritance, polymorphism, and encapsulation.
+- **[Data Structures]**: Binary Search Trees, Graphs, and Hash Maps implemented for performance.
 
-### 🔹 Year 2-4: Specialized AI/ML (Upcoming)
-- *Placeholders for upcoming specialized coursework.*
-
----
-
-## 🛠️ Infrastructure & Tools
-To optimize my workflow, I utilize a custom hardware and software stack:
-- **Primary IDEs:** PyCharm Professional, IntelliJ IDEA Ultimate, CLion, DataSpell.
-- **Local Server:** Ubuntu LTS running on a dedicated i3-M330 laptop to offload IDE backends.
-- **AI Integration:** Local LLM acceleration using RTX 5060 Ti (16GB VRAM).
-- **Database Management:** DataGrip for SQL and DBMS subjects.
+### 🔹 Year 3-4: AI & ML Performance (Upcoming)
+- **[High-Performance AI]**: Investigating C++ backends for deep learning frameworks.
+- **[Computer Vision]**: OpenCV-based projects and real-time image processing.
 
 ---
 
-## 📈 Learning Roadmap
-- [x] Mathematics Unit 1: Sets & Relations
-- [ ] Physics Unit 1: Units & Measurements
-- [ ] Data Structures in C++
-- [ ] First Machine Learning Model in DataSpell
+## 🛠️ Build & Installation
+This project uses **CMake** for cross-platform builds.
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com
+   ```
+2. **Build the project:**
+   ```bash
+   mkdir build && cd build
+   cmake ..
+   make
+   ```
 
 ---
 
-## 📬 Contact & Connectivity
-- **LinkedIn:** [Your Link]
-- **Portfolio:** [Your Link]
-- **Email:** [Your Email]
+## 📁 Standard Project Structure
+Maintaining a clean filesystem for scalability:
+- `/src`: Implementation files (.cpp)
+- `/include`: Header files (.h / .hpp)
+- `/tests`: Unit testing folder
+- `/build`: Compiled binaries (ignored by .gitignore)
 
 ---
-*Created and maintained with ❤️ by [Your Name]*
+
+## 📬 Connectivity
+- **LinkedIn:** [to be updated]
+- **Contact:** [to be updated]
