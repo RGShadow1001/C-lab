@@ -7,5 +7,5 @@ set(CMAKE_CXX_STANDARD 17)
 file(GLOB SOURCES *.cpp *.c *.h)
 
 add_executable(C_lab ${SOURCES}
-        basic-codes/helloworld.cpp
+        basic-codes/helloworld.c
 )
