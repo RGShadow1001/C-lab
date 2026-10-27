@@ -1,11 +1,9 @@
 cmake_minimum_required(VERSION 3.20)
-project(C_lab)
+project(C_lab C)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_C_STANDARD 11)
 
-# This automatically finds all your source files
-file(GLOB SOURCES *.cpp *.c *.h)
-
-add_executable(C_lab ${SOURCES}
-        basic-codes/helloworld.c
+# Individual targets for your files inside the basic-codes folder
+add_executable(helloworld basic-codes/helloworld.c
 )
+add_executable(marks basic-codes/marks.c)
